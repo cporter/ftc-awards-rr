@@ -1,0 +1,9 @@
+img-generated
+main.pdf
+*~
+*.aux
+*.log
+*.nav
+*.out
+*.toc
+*.snm
